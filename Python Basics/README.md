@@ -25,8 +25,9 @@ Writing and executing Python code
 Problem-solving and logical thinking
 Using Jupyter Notebook
 Building a foundation for data analysis
-Project Files
-View Python Basics Jupyter Notebook
+
+## Project Files
+- [View Python Basics Jupyter Notebook](https://github.com/SierraEcho1/Data-Analytics-Portfolio/blob/main/Python%20Class%2011.07.2023%20Python%20Basics.ipynb?utm_source=chatgpt.com)
 
 ## Reflection
 
