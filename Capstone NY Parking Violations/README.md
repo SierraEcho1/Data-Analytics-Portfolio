@@ -23,7 +23,7 @@ The project involved working with a large public dataset, identifying missing va
 ## Dataset
 The analysis used the NYC Department of Finance's public parking violations dataset for Fiscal Year 2024.
 
-* Initial dataset size: approximately 7 million records and 43 columns.
+* Initial dataset size: approximately **7 million records and 43 columns**.
 * Data included issue dates, registration states, vehicle types, violation codes, boroughs, and street information.
 * The dataset was used to examine geographic and categorical patterns in parking enforcement.
 
@@ -33,7 +33,7 @@ The analysis used the NYC Department of Finance's public parking violations data
 * Data Manipulation: Used Pandas operations, including grouping, sorting, filtering, and aggregation, to summarize violations.
 * Exploratory Data Analysis: Compared ticket counts by borough, registration state, vehicle type, violation code, and location.
 * Data Visualization: Created charts using Matplotlib and Seaborn to communicate patterns and differences in the data.
-* 
+  
 ## Key Findings
 The analysis identified several notable patterns in the available FY2024 data:
 
