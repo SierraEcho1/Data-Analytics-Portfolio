@@ -33,7 +33,7 @@ Examined New York City Regents examination data from 2015, 2016, and 2017, summa
 **4. NYPD 2023 Arrest Data Analysis**
 Explored 2023 NYPD arrest records to examine arrest counts across precincts, demographic categories, and offense descriptions while considering potential bias and limitations in interpreting public-sector data.
 
-View NYPD Arrest Project
+- [View NYPD Arrest Data Jupyter Notebook](https://github.com/SierraEcho1/Data-Analytics-Portfolio/blob/main/ES%20Python%20Class%20Project%203%20-%20NYPD%20Arrest%20Data.ipynb)
 
 **5. Python Basics**
 Practiced foundational Python programming concepts and developed coding skills through exercises in Jupyter Notebook.
