@@ -34,7 +34,7 @@ The analysis used the NYC Department of Finance's public parking violations data
 * Exploratory Data Analysis: Compared ticket counts by borough, registration state, vehicle type, violation code, and location.
 * Data Visualization: Created charts using Matplotlib and Seaborn to communicate patterns and differences in the data.
 
-# Visualizations
+# Visualization
 * Heatmaps: Used to display patterns and relationships in the data.
 * Histograms: Created histograms to compare parking violation types.
 * Pie Chart: To present category proportions.
