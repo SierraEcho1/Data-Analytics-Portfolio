@@ -33,6 +33,16 @@ The analysis used the NYC Department of Finance's public parking violations data
 * Data Manipulation: Used Pandas operations, including grouping, sorting, filtering, and aggregation, to summarize violations.
 * Exploratory Data Analysis: Compared ticket counts by borough, registration state, vehicle type, violation code, and location.
 * Data Visualization: Created charts using Matplotlib and Seaborn to communicate patterns and differences in the data.
+
+# Visualizations
+* Heatmaps: Used to display patterns and relationships in the data.
+* Histograms: Created histograms to compare parking violation types.
+* Pie Chart: To present category proportions.
+* Line Plots: Used to examine changes in violation counts over time.
+* Histograms with Hue Variation: Used Seaborn's hue parameter to compare distributions across categories.
+* Joint Plot: Used Seaborn's jointplot() to examine relationships between two variables and their distributions.
+* Pair Plot: Used Seaborn's pairplot() to explore relationships among multiple numerical variables.
+* Matplotlib Image Display: Used Matplotlib to display image-based content during the analysis (location of the area with highest violations).
   
 ## Key Findings
 The analysis identified several notable patterns in the available FY2024 data:
