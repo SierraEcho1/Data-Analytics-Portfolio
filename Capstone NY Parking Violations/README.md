@@ -1,4 +1,4 @@
-# NYC Parking Violations Analysis — FY2024
+# NYC Parking Violations Analysis - FY2024
 
 ## Project Overview
 This capstone project was completed as part of the Data Science program at LaGuardia Community College. Using Python, I analyzed New York City parking violation data for Fiscal Year 2024 to explore ticket distribution across boroughs, vehicle types, registration states, violation codes, and locations.
