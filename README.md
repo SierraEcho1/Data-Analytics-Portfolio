@@ -53,5 +53,5 @@ Through this program, I strengthened my ability to:
 **Data Science Program**
 LaGuardia Community College
 
-Purpose
+## Purpose
 This portfolio demonstrates my foundational skills in data analytics, my experience working with real-world datasets, and my commitment to using data to investigate questions and support informed decision-making.
