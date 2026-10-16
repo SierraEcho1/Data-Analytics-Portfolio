@@ -43,6 +43,8 @@ The analysis used the NYC Department of Finance's public parking violations data
 * Joint Plot: Used Seaborn's jointplot() to examine relationships between two variables and their distributions.
 * Pair Plot: Used Seaborn's pairplot() to explore relationships among multiple numerical variables.
 * Matplotlib Image Display: Used Matplotlib to display image-based content during the analysis (location of the area with highest violations).
+
+Pandas grouping and aggregation techniques were also used to summarize violation records by categories such as borough, vehicle type, registration state, and violation code.
   
 ## Key Findings
 The analysis identified several notable patterns in the available FY2024 data:
