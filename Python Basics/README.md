@@ -13,7 +13,7 @@ Develop a foundation for using Python in data analysis.
 - **Python** - programming and problem-solving
 - **Jupyter Notebook** - interactive coding, testing, and documentation
   
-# Methodology
+## Methodology
 1. Python Practice: Completed introductory Python exercises in a Jupyter Notebook.
 2. Code Execution: Wrote and executed Python statements to practice programming fundamentals.
 3. Problem-Solving: Applied introductory programming techniques through hands-on exercises.
