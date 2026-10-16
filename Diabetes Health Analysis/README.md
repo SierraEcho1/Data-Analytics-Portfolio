@@ -23,6 +23,16 @@ This project was completed as part of the Data Science program at LaGuardia Comm
 4. Data Visualization: Created bar charts to compare the distribution of entries across racial categories.
 5. Data Quality Review: Identified unspecified race values represented by ? and considered their importance when interpreting the analysis.
 
+## Visualization
+* Bar Charts: Used to compare counts across demographic categories.
+* Histograms: Used to examine the distribution of numerical values.
+* Seaborn JointGrid: Used to explore relationships between two variables alongside their individual distributions.
+* Seaborn FacetGrid: Used to compare data distributions across subsets of the dataset.
+* Pandas Bar Plots (plot.bar()): Used to create categorical comparisons.
+* Pandas Line Plots (plot.line()): Used to visualize patterns across ordered data.
+  
+These visualizations supported exploratory data analysis and helped develop practical skills in Python-based data visualization.
+
 ## Key Findings
 * **Race comparison**: The Caucasian category had 76,099 non-null entries in the Number of Rx column, followed by African American at 19,210.
 * **Unspecified race**: The dataset contained 2,273 entries labeled ?.
