@@ -19,6 +19,15 @@ This project was completed as part of the Data Science program at LaGuardia Comm
 3. Grouping and Aggregation: Grouped records by Regents examination type and counted the records in each category.
 4. Yearly Summary: Examined the distribution of the Mean Score field across reporting years.
 5. Data Visualization: Created a bar chart to compare record counts across Regents examination types.
+   
+## Visualizations
+* Bar Charts (plot.bar()): Used to compare record counts across Regents examination types.
+* Histograms (plot.hist()): Used to examine the distribution of numerical values, including mean scores.
+* Scatter Plots: Used to explore relationships between numerical variables.
+* Grouped Comparison Bar Charts: Used to compare multiple groups side by side.
+
+These visualizations helped summarize the dataset and communicate patterns across examination categories and reporting years.
+
 ## Key Findings
 - **Dataset Size:** The dataset contained 212,331 rows and 15 columns.
 - **Most Frequent Exam Category:** Common Core Algebra had the highest number of records, with 29,254, followed by Living Environment with 25,539.
