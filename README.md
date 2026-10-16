@@ -17,7 +17,8 @@ Documentation: Developing and documenting analytical workflows in Jupyter Notebo
 **1. Capstone Project** : NYC Parking Violations Analysis
 Analyzed New York City parking violation data for Fiscal Year 2024 to explore patterns across boroughs, vehicle types, registration states, violation codes, and locations.
 
-View Capstone Project
+- [View Capstone Jupyter Notebook](../Capstone%20Project%20-%20Python%20(Khan)%20-%20Elissa%20Selmore.ipynb)
+
 
 **2. Diabetes Health Analysis**
 Explored diabetes-related healthcare data to examine prescription records across gender, race, and age ranges while practicing data manipulation, grouping, and visualization.
