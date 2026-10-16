@@ -31,7 +31,7 @@ This project was completed as part of the Data Science program at LaGuardia Comm
 The reported counts represent dataset entries, not necessarily unique patients or individual prescriptions. The findings describe the analyzed data and should not be interpreted as evidence of differences in medication effectiveness or healthcare outcomes.
 
 ## Project Files
-Jupyter Notebook: Diabetes health data analysis.
+https://github.com/SierraEcho1/Data-Analytics-Portfolio/blob/main/Python%20Class%20Project%202%20-%20Public%20Health%20Data.ipynb
 
 ## Skills Demonstrated
 * Data preparation and column renaming
