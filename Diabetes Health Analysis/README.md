@@ -1,17 +1,21 @@
 # Diabetes Health Analysis
 ## Project Overview
-This project was completed as part of the Data Science program at LaGuardia Community College. It explores a diabetes-related health dataset using Python and data analysis libraries to practice data preparation, investigation, and interpretation.
+This project was completed as part of the Data Science program at LaGuardia Community College. Using Python, I explored a diabetes-related healthcare dataset to examine medication counts across gender, race, and age groups. The project involved organizing demographic variables, aggregating data with Pandas, and creating visualizations to compare patterns across population subgroups.
 
 ## Objectives
-Prepare the dataset for analysis.
-Examine relevant health-related variables.
-Explore potential patterns and relationships in the data.
-Apply Python-based analytical techniques to a health data use case.
+* Examine medication counts across gender categories.
+* Compare medication counts among racial categories.
+* Explore medication counts across age ranges.
+* Use Python to organize, summarize, and visualize healthcare data.
+* Identify data quality considerations when interpreting demographic information.
+  
 ## Tools & Technologies
-Python
-Pandas
-NumPy
-Jupyter Notebook
+* **Python** — data analysis and manipulation
+* **Panda**s — data preparation, grouping, and aggregation
+* **NumPy** — numerical operations
+* **Matplotlib** — data visualization
+* **Jupyter Notebook** — interactive analysis and documentation
+  
 ## Methodology
 The analysis uses Python to work with the dataset and investigate the available variables. The specific data-cleaning steps, statistical methods, and comparisons will be documented according to the notebook.
 
