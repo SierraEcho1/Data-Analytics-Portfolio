@@ -1,5 +1,5 @@
 
-# Projects created during Python Fall 2023 course
+# Data Analysis Projects | Python Fall 2023 course
 Data Analytics Portfolio | LaGuardia Community College
 ## Overview
 This repository showcases my work and projects completed as part of the Data Science program at LaGuardia Community College. Throughout the program, I developed hands-on experience working with large datasets, cleaning and transforming raw data, performing exploratory data analysis, and extracting meaningful insights using Python and its data analysis libraries.
