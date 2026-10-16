@@ -38,7 +38,7 @@ Explored 2023 NYPD arrest records to examine arrest counts across precincts, dem
 **5. Python Basics**
 Practiced foundational Python programming concepts and developed coding skills through exercises in Jupyter Notebook.
 
-View Python Basics Project
+- [View Python Basics Jupyter Notebook](https://github.com/SierraEcho1/Data-Analytics-Portfolio/blob/main/Python%20Class%2011.07.2023%20Python%20Basics.ipynb?utm_source=chatgpt.com)
 
 ## Skills & Experience
 Through this program, I strengthened my ability to:
