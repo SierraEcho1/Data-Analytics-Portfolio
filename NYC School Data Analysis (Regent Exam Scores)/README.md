@@ -1,4 +1,4 @@
-# NYC Regents Examination Data Analysis
+# NYC School Data Analysis | Regents Exams
 ## Project Overview
 This project was completed as part of the Data Science program at LaGuardia Community College. Using Python, I explored New York City Regents examination data from the 2014–2015 through 2016–2017 school years. The project involved examining school-level assessment data, reviewing examination categories, summarizing records by year, and using visualizations to compare the distribution of exam records.
 
