@@ -1,4 +1,4 @@
-# Diabetes Health Data Analysis
+# Diabetes Health Analysis
 ## Project Overview
 This project was completed as part of the Data Science program at LaGuardia Community College. It explores a diabetes-related health dataset using Python and data analysis libraries to practice data preparation, investigation, and interpretation.
 
