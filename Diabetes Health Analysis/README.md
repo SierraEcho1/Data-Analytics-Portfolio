@@ -41,7 +41,7 @@ These visualizations supported exploratory data analysis and helped develop prac
 The reported counts represent dataset entries, not necessarily unique patients or individual prescriptions. The findings describe the analyzed data and should not be interpreted as evidence of differences in medication effectiveness or healthcare outcomes.
 
 ## Project Files
-- [View Jupyter Notebook](../Python%20Class%20Project%202%20-%20Public%20Health%20Data.ipynb)
+- [View Diabetes Health Jupyter Notebook](../Python%20Class%20Project%202%20-%20Public%20Health%20Data.ipynb)
 
 ## Skills Demonstrated
 * Data preparation and column renaming
