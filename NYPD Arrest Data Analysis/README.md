@@ -9,6 +9,7 @@ Compare arrest counts across gender and demographic categories.
 Examine the most frequently recorded offense categories.
 Create visualizations to communicate patterns in arrest records.
 Consider potential bias and limitations when interpreting arrest data.
+
 ## Tools & Technologies
 * **Python** - data analysis and manipulation
 * **Pandas** - data inspection, grouping, counting, sorting, and aggregation
@@ -27,9 +28,9 @@ Consider potential bias and limitations when interpreting arrest data.
 7. Bias Considerations: Considered potential bias and the limitations of arrest records when interpreting differences across demographic groups and geographic areas.
   
 ## Visualizations
-- **Bar Chart (plot.bar())**: Used to compare arrest counts by perpetrator sex.
-- **Pie Chart (plt.pie())**: Used to compare the five most frequently recorded offense categories, with labels, percentage annotations, record counts, and a title.
-- **Grouped Data Summaries (groupby())**: Used to aggregate and rank arrest records by precinct, sex, and offense description before visualizing the results.
+- Bar Chart (plot.bar()): Used to compare arrest counts by perpetrator sex.
+- Pie Chart (plt.pie()): Used to compare the five most frequently recorded offense categories, with labels, percentage annotations, record counts, and a title.
+- Grouped Data Summaries (groupby()): Used to aggregate and rank arrest records by precinct, sex, and offense description before visualizing the results.
   
 These visualizations helped summarize arrest records and communicate patterns across demographic and offense categories.
 
