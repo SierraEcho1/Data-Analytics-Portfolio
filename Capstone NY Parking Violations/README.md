@@ -56,5 +56,6 @@ The dataset represents the records available when the project was conducted. The
 * Data visualization with Matplotlib and Seaborn
 * Analysis of large public datasets
 *Communicating findings through data-driven summaries
-Conclusion
+
+## Conclusion
 This project provided hands-on experience using Python to investigate a large real-world dataset and communicate findings through statistical summaries and visualizations. It strengthened my ability to clean data, identify patterns, and use exploratory analysis to answer practical questions about parking enforcement in New York City.
