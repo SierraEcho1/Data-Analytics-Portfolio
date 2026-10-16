@@ -18,7 +18,7 @@ This project was completed as part of the Data Science program at LaGuardia Comm
 2. Data Inspection: Reviewed the dataset's dimensions, column names, descriptive statistics, and sample records.
 3. Grouping and Aggregation: Grouped records by Regents examination type and counted the records in each category.
 4. Yearly Summary: Examined the distribution of the Mean Score field across reporting years.
-Data Visualization: Created a bar chart to compare record counts across Regents examination types.
+5. Data Visualization: Created a bar chart to compare record counts across Regents examination types.
 ## Key Findings
 * Dataset Size: The dataset contained 212,331 rows and 15 columns.
 * Most Frequent Exam Category: Common Core Algebra had the highest number of records, with 29,254, followed by Living Environment with 25,539.
