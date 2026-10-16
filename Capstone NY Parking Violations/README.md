@@ -45,8 +45,9 @@ The analysis identified several notable patterns in the available FY2024 data:
   
 The dataset represents the records available when the project was conducted. These findings describe the analyzed records and should not be interpreted as proof of why violations occurred.
 
-Project Files
-View the Capstone Jupyter Notebook
+## Project Files
+* View the Capstone Jupyter Notebook
+  
 ## Skills Demonstrated
 * Data cleaning and preparation
 * Exploratory data analysis (EDA)
