@@ -10,11 +10,11 @@ This project was completed as part of the Data Science program at LaGuardia Comm
 * Identify data quality considerations when interpreting demographic information.
   
 ## Tools & Technologies
-* **Python** — data analysis and manipulation
-* **Panda**s — data preparation, grouping, and aggregation
-* **NumPy** — numerical operations
-* **Matplotlib** — data visualization
-* **Jupyter Notebook** — interactive analysis and documentation
+* **Python** - data analysis and manipulation
+* **Pandas** - data preparation, grouping, and aggregation
+* **NumPy** - numerical operations
+* **Matplotlib** - data visualization
+* **Jupyter Notebook** - interactive analysis and documentation
   
 ## Methodology
 1. Column Preparation: Renamed the dataset columns to improve readability, including race to Race, gender to Gender, age to Age, and num_medications to Number of Rx.
