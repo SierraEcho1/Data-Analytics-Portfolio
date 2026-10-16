@@ -45,7 +45,6 @@ These visualizations helped summarize arrest records and communicate patterns ac
 The counts represent recorded arrest events in the analyzed dataset, not necessarily unique individuals. Arrest counts alone do not establish arrest rates or explain why differences occur across communities. Evaluating potential policing bias requires additional context, such as population data and other relevant measures.
 
 ## Project Files
-- Dataset: NYPD_Arrest_Data__Year_to_Date__20231225.csv
 - Jupyter Notebook: ES Python Class Project 3 - NYPD Arrest Data.ipynb
 
 ## Skills Demonstrated
