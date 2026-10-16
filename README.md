@@ -50,9 +50,9 @@ Through this program, I strengthened my ability to:
 - Create visualizations to communicate information.
 - Document analytical workflows and present findings through Jupyter Notebooks.
 - Recognize data quality issues and limitations when interpreting results.
+
 ## Education
-**Data Science Program**
-LaGuardia Community College
+**Data Science Program**, LaGuardia Community College
 
 ## Purpose
 This portfolio demonstrates my foundational skills in data analytics, my experience working with real-world datasets, and my commitment to using data to investigate questions and support informed decision-making.
