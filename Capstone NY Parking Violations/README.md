@@ -41,7 +41,8 @@ The analysis identified several notable patterns in the available FY2024 data:
 * Vehicle registration: New York-registered vehicles accounted for approximately 80.8% of tickets, followed by New Jersey at 10.5%.
 * Vehicle types: Passenger vehicles represented approximately 87.2% of tickets, followed by commercial vehicles at 9.2% and taxis at 3.6%.
 * Violation codes: Violation Code 36, identified in the notebook as a photo school-zone speed violation, was the most frequently issued violation in four boroughs: Queens, Brooklyn, the Bronx, and Staten Island.
-* Trends over time: The analysis showed an increase in recorded violations from May through November 2023. December data was not fully updated at the time of the original analysis.
+* Trends over time:The analysis showed an increase in recorded violations from May through November 2023. December data was not fully updated at the time of the original analysis.
+  
 The dataset represents the records available when the project was conducted. These findings describe the analyzed records and should not be interpreted as proof of why violations occurred.
 
 Project Files
