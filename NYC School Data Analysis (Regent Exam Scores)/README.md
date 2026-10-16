@@ -39,6 +39,7 @@ The counts above represent dataset records grouped by examination type, not nece
 
 ## Project Files
 View NYC Regents Data Jupyter Notebook
+View NYC Regents Data Jupyter Notebook
 ## Skills Demonstrated
 * Importing public datasets
 * Inspecting dataset structure and descriptive statistics
