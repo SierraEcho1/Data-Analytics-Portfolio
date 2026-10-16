@@ -13,12 +13,12 @@ The project involved working with a large public dataset, identifying missing va
 * Investigate locations with high concentrations of parking violations.
   
 ## Tools & Technologies
-* Python — data analysis and manipulation
-* Pandas — data cleaning, grouping, and aggregation
-* NumPy — numerical operations
-* Matplotlib — data visualization
-* Seaborn — statistical visualization
-* Jupyter Notebook — interactive analysis and documentation
+* **Python** - data analysis and manipulation
+* **Pandas** - data cleaning, grouping, and aggregation
+* **NumPy** - numerical operations
+* **Matplotlib** - data visualization
+* **Seaborn** - statistical visualization
+* **Jupyter Notebook** - interactive analysis and documentation
   
 ## Dataset
 The analysis used the NYC Department of Finance's public parking violations dataset for Fiscal Year 2024.
