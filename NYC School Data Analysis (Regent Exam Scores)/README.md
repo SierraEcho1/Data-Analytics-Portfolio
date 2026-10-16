@@ -38,8 +38,7 @@ These visualizations helped summarize the dataset and communicate patterns acros
 The counts above represent dataset records grouped by examination type, not necessarily the number of individual students tested. A single school and exam combination may appear in multiple records.
 
 ## Project Files
-View NYC Regents Data Jupyter Notebook
-View NYC Regents Data Jupyter Notebook
+-  [View NYC Regents Data Jupyter Notebook](https://github.com/SierraEcho1/Data-Analytics-Portfolio/blob/main/Python%20Class%20Project%201%20-%20NYC%20School%20Data%20v2.ipynb)
 ## Skills Demonstrated
 * Importing public datasets
 * Inspecting dataset structure and descriptive statistics
