@@ -28,7 +28,7 @@ Explored diabetes-related healthcare data to examine prescription records across
 **3. NYC School Data Analysis | Regents Exams**
 Examined New York City Regents examination data from 2015, 2016, and 2017, summarizing records across examination categories and reporting years.
 
-View School Data Project
+- [View NYC School Data Jupyter Notebook](https://github.com/SierraEcho1/Data-Analytics-Portfolio/blob/main/Python%20Class%20Project%201%20-%20NYC%20School%20Data%20v2.ipynb)
 
 **4. NYPD 2023 Arrest Data Analysis**
 Explored 2023 NYPD arrest records to examine arrest counts across precincts, demographic categories, and offense descriptions while considering potential bias and limitations in interpreting public-sector data.
