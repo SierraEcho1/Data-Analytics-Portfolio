@@ -23,7 +23,7 @@ Analyzed New York City parking violation data for Fiscal Year 2024 to explore pa
 **2. Diabetes Health Analysis**
 Explored diabetes-related healthcare data to examine prescription records across gender, race, and age ranges while practicing data manipulation, grouping, and visualization.
 
-View Diabetes Health Project
+- [View Diabetes Health Jupyter Notebook](../Python%20Class%20Project%202%20-%20Public%20Health%20Data.ipynb)
 
 **3. NYC School Data Analysis | Regents Exams**
 Examined New York City Regents examination data from 2015, 2016, and 2017, summarizing records across examination categories and reporting years.
