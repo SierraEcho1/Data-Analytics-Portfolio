@@ -21,10 +21,11 @@ Consider potential bias and limitations when interpreting arrest data.
 - Data Import: Loaded the 2023 NYPD arrest dataset from NYPD_Arrest_Data__Year_to_Date__20231225.csv using Pandas.
 - Data Inspection: Examined the dataset's dimensions, column names, and sample records. The dataset contained 170,095 rows and 19 columns.
 - Precinct Analysis: Grouped records by arrest precinct, counted arrest records, and sorted the results to identify precincts with the highest arrest counts.
-Demographic Analysis: Grouped records by perpetrator sex to compare arrest counts across the available categories.
-Offense Analysis: Grouped records by offense description to identify the most frequently recorded offense categories and select the five leading categories for comparison.
-Data Visualization: Created a bar chart to compare arrests by gender and a pie chart to display the five most frequently recorded offense categories.
-Bias Considerations: Considered potential bias and the limitations of arrest records when interpreting differences across demographic groups and geographic areas.
+- Demographic Analysis: Grouped records by perpetrator sex to compare arrest counts across the available categories.
+- Offense Analysis: Grouped records by offense description to identify the most frequently recorded offense categories and select the five leading categories for comparison.
+- Data Visualization: Created a bar chart to compare arrests by gender and a pie chart to display the five most frequently recorded offense categories.
+- Bias Considerations: Considered potential bias and the limitations of arrest records when interpreting differences across demographic groups and geographic areas.
+  
 ## Visualizations
 Bar Chart (plot.bar()): Used to compare arrest counts by perpetrator sex.
 Pie Chart (plt.pie()): Used to compare the five most frequently recorded offense categories, with labels, percentage annotations, record counts, and a title.
